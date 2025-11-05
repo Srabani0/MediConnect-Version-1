@@ -51,7 +51,7 @@ MediConnect is a modern single-page healthcare website designed to simplify pati
 
 1. Download or clone the repository
    ```sh
-   git clone https://github.com/Srabani0/MediConnect.git
+   git clone https://github.com/Srabani0/MediConnect-Version-1.git
 Open the project folder
 
 2.Run the index.html file in your browser
